@@ -1,4 +1,4 @@
-Ticket Information
+![Password Reset Screenshot](password-reset-ticket.png)
 
 Ticket ID: INC-001
 Reported by: Jane Doe (Marketing)
